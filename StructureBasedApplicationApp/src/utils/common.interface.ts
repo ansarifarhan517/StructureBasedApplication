@@ -1,0 +1,30 @@
+export interface IUserAccessInfo {
+    accessToken: string
+    userName: string
+    userId: number
+    subClients: []
+    modelType: string
+    clientBranches: string
+    CLIENT_SECRET_KEY: string
+    isSuperClient: boolean
+    isClientExpire: boolean
+    clientLogo: string
+    countryCode: string
+    baseCountry: string
+    countryId?: number
+    clientLocale: string
+    superType: string
+    baseCurrency: string
+    planType: string
+    userImagePath: string
+    baseCountryId: number
+    timezone: string
+    timezoneMode: string
+    region: string
+    productDomain: string
+    firebaseConfigKey?: string
+    firebaseConfigProjectId?: string
+    firebaseConfigKeySocket?: string
+    firebaseConfigProjectIdSocket?: string
+    wordpressToken?: string
+}

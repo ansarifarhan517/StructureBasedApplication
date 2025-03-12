@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe87"
+  },
+  "name": "United States",
+  "code": "US",
+  "region": "Americas",
+  "population": 331002651,
+  "area": 9833517
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe88"
+  },
+  "name": "Canada",
+  "code": "CA",
+  "region": "Americas",
+  "population": 37742154,
+  "area": 9984670
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe89"
+  },
+  "name": "Mexico",
+  "code": "MX",
+  "region": "Americas",
+  "population": 128932753,
+  "area": 1964375
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe8a"
+  },
+  "name": "United Kingdom",
+  "code": "GB",
+  "region": "Europe",
+  "population": 67886011,
+  "area": 243610
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe8b"
+  },
+  "name": "Germany",
+  "code": "DE",
+  "region": "Europe",
+  "population": 83783942,
+  "area": 357022
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe8c"
+  },
+  "name": "France",
+  "code": "FR",
+  "region": "Europe",
+  "population": 65273511,
+  "area": 551695
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe8d"
+  },
+  "name": "China",
+  "code": "CN",
+  "region": "Asia",
+  "population": 1439323776,
+  "area": 9596961
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe8e"
+  },
+  "name": "India",
+  "code": "IN",
+  "region": "Asia",
+  "population": 1380004385,
+  "area": 3287263
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe8f"
+  },
+  "name": "Brazil",
+  "code": "BR",
+  "region": "Americas",
+  "population": 212559417,
+  "area": 8515767
+},
+{
+  "_id": {
+    "$oid": "671ca0e7e6e12e5777d4fe90"
+  },
+  "name": "Australia",
+  "code": "AU",
+  "region": "Oceania",
+  "population": 25499884,
+  "area": 7692024
+}]

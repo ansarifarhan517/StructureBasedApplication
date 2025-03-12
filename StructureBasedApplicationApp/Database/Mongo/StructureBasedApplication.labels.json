@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6731b403cecf9b23f0663d19"
+  },
+  "key": "customerUpdate",
+  "value": "Click here to update the selected ${customer_s}",
+  "locale": "en-GB",
+  "userGroupId": 0,
+  "clientId": 0,
+  "type": "LABEL"
+},
+{
+  "_id": {
+    "$oid": "6731b414cecf9b23f0663d1d"
+  },
+  "key": "customer_s",
+  "value": "Customer",
+  "locale": "en-GB",
+  "clientId": 0,
+  "type": "LABEL"
+},
+{
+  "_id": {
+    "$oid": "6731b426cecf9b23f0663d21"
+  },
+  "key": "customer_p",
+  "value": "Customers",
+  "locale": "en-GB",
+  "clientId": 0,
+  "type": "LABEL"
+},
+{
+  "_id": {
+    "$oid": "6731eddccecf9b23f0663d2c"
+  },
+  "key": "update",
+  "value": "Update",
+  "locale": "en-GB",
+  "clientId": 0,
+  "type": "LABEL"
+},
+{
+  "_id": {
+    "$oid": "6731eddccecf9b23f0663d2d"
+  },
+  "key": "save",
+  "value": "Save",
+  "locale": "en-GB",
+  "clientId": 0,
+  "type": "LABEL"
+},
+{
+  "_id": {
+    "$oid": "6731eddccecf9b23f0663d2e"
+  },
+  "key": "cancel",
+  "value": "Cancel",
+  "locale": "en-GB",
+  "clientId": 0,
+  "type": "LABEL"
+}]
